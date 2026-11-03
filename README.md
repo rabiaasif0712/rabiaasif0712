@@ -1,6 +1,6 @@
  👋 Hi, I'm Rabia Asif
 
-Full-Stack Developer passionate about building innovative, scalable, and user-friendly web applications. Turning ideas into impactful digital experiences.
+Full-Stack AI Engineer passionate about building innovative, scalable, and user-friendly web applications. Turning ideas into impactful digital experiences.
 
 ---
 
