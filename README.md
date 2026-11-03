@@ -7,8 +7,6 @@ Full-Stack Developer passionate about building innovative, scalable, and user-fr
  ✨ About Me
 
 
-Hi! I'm Rabia Asif, a passionate Web Developer who loves building creative, responsive, and user-friendly web applications.
-
 - 🌱 Currently learning and exploring Full-Stack Web Development (MERN Stack).
 - 💻 Working with HTML, CSS, JavaScript, Tailwind CSS, and React.js.
 - ⚙️ Learning backend development with Node.js and Express.js.
