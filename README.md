@@ -10,7 +10,7 @@ Full-Stack Developer passionate about building innovative, scalable, and user-fr
 - 🌱 Currently learning and exploring Full-Stack Web Development (MERN Stack).
 - 💻 Working with HTML, CSS, JavaScript, Tailwind CSS, and React.js.
 - ⚙️ Learning backend development with Node.js and Express.js.
-- 🗄️ Exploring databases like MySQL and MongoDB.
+- 🗄️ Exploring databases like MySQL and PostgreSQL.
 - 🚀 Building real-world projects to improve my development skills.
 - 🎯 My goal is to become a skilled Full-Stack Developer and build meaningful web applications.
 - 🤝 Always ready to learn new technologies and collaborate on interesting projects.
