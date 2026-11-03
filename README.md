@@ -1,53 +1,82 @@
-# 👋 Hi, I'm Rabia Asif
+ 👋 Hi, I'm Rabia Asif
 
-### 💻 Frontend Developer | Creative Web Developer
-
-<p align="center">
-  <img src="./profile.png.jpeg" width="160" alt="Rabia's Profile Picture" />
-</p>
-
-<p align="center">
-  <b>Building modern, responsive and user-friendly web experiences.</b>
-</p>
+Full-Stack Developer passionate about building innovative, scalable, and user-friendly web applications. Turning ideas into impactful digital experiences.
 
 ---
 
-## ✨ About Me
+ ✨ About Me
 
-I'm Rabia, a Frontend Developer passionate about creating clean, modern, and responsive websites.
 
-- 🌱 Continuously improving my development skills.
-- 💻 Working with HTML, CSS, Tailwind CSS and JavaScript.
-- 🎨 Interested in modern UI/UX design.
-- 🚀 Building practical frontend projects.
+Hi! I'm Rabia Asif, a passionate Web Developer who loves building creative, responsive, and user-friendly web applications.
+
+- 🌱 Currently learning and exploring Full-Stack Web Development (MERN Stack).
+- 💻 Working with HTML, CSS, JavaScript, Tailwind CSS, and React.js.
+- ⚙️ Learning backend development with Node.js and Express.js.
+- 🗄️ Exploring databases like MySQL and MongoDB.
+- 🚀 Building real-world projects to improve my development skills.
+- 🎯 My goal is to become a skilled Full-Stack Developer and build meaningful web applications.
+- 🤝 Always ready to learn new technologies and collaborate on interesting projects.
+
+💡 My Interests
+
+- Frontend Development
+- Backend Development
+- UI/UX Design
+- Problem Solving
+- Learning New Technologies
+
 
 ---
 
-## 🛠️ Technologies & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,github,vscode" />
-</p>
+🛠️ Tech Stack & Tools
 
+Here are the core programming languages, frameworks, databases, and developer tools I use to build web applications.
+
+🎨 Frontend Development
+
+- HTML5
+- CSS3
+- JavaScript
+- EJS (Embedded JavaScript Templates)
+
+⚙️ Backend & Runtime
+
+- Node.js
+- Express.js
+
+🗄️ Databases
+
+- SQL
+- MySQL
+- MongoDB
+
+💻 Developer Tools
+
+- Git
+- GitHub
+- Visual Studio Code
+- Postman
+- NPM
 ---
 
-## 🚀 Featured Projects
+ 🚀 Featured Projects
 
-### 01. Landing Page
+ 01. Landing Page
 
 A modern and responsive landing page.
 
 - [Source Code](https://github.com/rabiaasif0712/clipboard-landing-page-master)
 - [Live Demo](https://rabiaasif0712.github.io/clipboard-landing-page-master/)
 
-### 02. Bento Grid
+ 02. Bento Grid
 
 A responsive Bento Grid layout with modern card designs.
 
 - [Source Code](https://github.com/rabiaasif0712/bento-grid-main)
 - [Live Demo](https://rabiaasif0712.github.io/bento-grid-main/)
 
-### 03. Upwork Clone
+ 03. Upwork Clone
 
 A freelance marketplace interface inspired by Upwork.
 
@@ -56,7 +85,7 @@ A freelance marketplace interface inspired by Upwork.
 
 ---
 
-## 🤝 Connect With Me
+ 🤝 Connect With Me
 
 [GitHub](https://github.com/rabiaasif0712)
 
