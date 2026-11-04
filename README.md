@@ -15,15 +15,6 @@ Full-Stack AI Engineer passionate about building innovative, scalable, and user-
 - 🎯 My goal is to become a skilled Full-Stack Developer and build meaningful web applications.
 - 🤝 Always ready to learn new technologies and collaborate on interesting projects.
 
-💡 My Interests
-
-- Frontend Development
-- Backend Development
-- UI/UX Design
-- Problem Solving
-- Learning New Technologies
-
-
 ---
 
 
